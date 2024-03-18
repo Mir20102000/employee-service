@@ -1,0 +1,8 @@
+asyncpg
+databases[postgresql]
+fastapi
+SQLAlchemy
+uvicorn
+httpx
+pytest
+requests
